@@ -9,7 +9,7 @@ This repository contains the learning materials for **Creating a mobile site usi
 > Instructor: webstoryboy
   
 ## Learning Outcomes
-- [View the Result](https://hwahyeon.github.io/mobile-music-web-design/)
+[View the Result](https://hwahyeon.github.io/mobile-music-web-design/)
 
 ## Learning Contents
 - How to use Figma and Zeplin
